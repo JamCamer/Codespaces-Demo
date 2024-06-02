@@ -36,6 +36,8 @@
         padding: 25px;
         background-color: #424242;
         color: #fff;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
     }
 
     img {
