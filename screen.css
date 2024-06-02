@@ -8,11 +8,12 @@
 
     main {
         margin: 0 auto;
-        width: 900px;
+        width: 800px;
     }
 
     .details {
         display: flex;
+        gap: 25px;
     }
 
     .details section {
